@@ -24,7 +24,5 @@ I used F1-score as the main metric, since spam is much rarer than normal message
 ## Built with
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, ipywidgets
 
-## Try it
-
-Author
-israr Hussain
+## Author
+   Israr Hussain
